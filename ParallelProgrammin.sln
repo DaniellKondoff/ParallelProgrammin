@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskProgramming", "TaskProgramming\TaskProgramming.csproj", "{737C566A-C87C-440E-90D3-F1B78E07A5EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSharingAndSync", "DataSharingAndSync\DataSharingAndSync.csproj", "{01F228EC-BEE2-460F-BB0D-7C3F4436E5FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataSharingAndSync", "DataSharingAndSync\DataSharingAndSync.csproj", "{01F228EC-BEE2-460F-BB0D-7C3F4436E5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentCollections", "ConcurrentCollections\ConcurrentCollections.csproj", "{25566A35-D226-4D65-B425-3A97DC2F829B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{01F228EC-BEE2-460F-BB0D-7C3F4436E5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01F228EC-BEE2-460F-BB0D-7C3F4436E5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01F228EC-BEE2-460F-BB0D-7C3F4436E5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25566A35-D226-4D65-B425-3A97DC2F829B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25566A35-D226-4D65-B425-3A97DC2F829B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25566A35-D226-4D65-B425-3A97DC2F829B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25566A35-D226-4D65-B425-3A97DC2F829B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
