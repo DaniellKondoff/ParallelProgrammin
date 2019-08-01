@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskProgramming", "TaskProg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataSharingAndSync", "DataSharingAndSync\DataSharingAndSync.csproj", "{01F228EC-BEE2-460F-BB0D-7C3F4436E5FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrentCollections", "ConcurrentCollections\ConcurrentCollections.csproj", "{25566A35-D226-4D65-B425-3A97DC2F829B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcurrentCollections", "ConcurrentCollections\ConcurrentCollections.csproj", "{25566A35-D226-4D65-B425-3A97DC2F829B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCoordination", "TaskCoordination\TaskCoordination.csproj", "{45EF4F1C-A678-4B23-AB9D-52578FE05DA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{25566A35-D226-4D65-B425-3A97DC2F829B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25566A35-D226-4D65-B425-3A97DC2F829B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25566A35-D226-4D65-B425-3A97DC2F829B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45EF4F1C-A678-4B23-AB9D-52578FE05DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EF4F1C-A678-4B23-AB9D-52578FE05DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EF4F1C-A678-4B23-AB9D-52578FE05DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EF4F1C-A678-4B23-AB9D-52578FE05DA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
