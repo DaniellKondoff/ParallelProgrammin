@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcurrentCollections", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskCoordination", "TaskCoordination\TaskCoordination.csproj", "{45EF4F1C-A678-4B23-AB9D-52578FE05DA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLoops", "ParallelLoops\ParallelLoops.csproj", "{0F3BD5B1-4998-4E86-ADF9-0F9BD675555F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelLoops", "ParallelLoops\ParallelLoops.csproj", "{0F3BD5B1-4998-4E86-ADF9-0F9BD675555F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ", "PLINQ\PLINQ.csproj", "{697B456A-25D3-4422-94FD-DD762D3B02A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0F3BD5B1-4998-4E86-ADF9-0F9BD675555F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F3BD5B1-4998-4E86-ADF9-0F9BD675555F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F3BD5B1-4998-4E86-ADF9-0F9BD675555F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697B456A-25D3-4422-94FD-DD762D3B02A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697B456A-25D3-4422-94FD-DD762D3B02A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697B456A-25D3-4422-94FD-DD762D3B02A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697B456A-25D3-4422-94FD-DD762D3B02A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
